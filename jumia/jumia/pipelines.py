@@ -7,7 +7,6 @@
 # useful for handling different item types with a single interface
 import unicodedata
 import w3lib.html
-import html
 from itemadapter import ItemAdapter
 
 
